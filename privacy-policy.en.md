@@ -5,6 +5,9 @@
 This policy describes how the **Manga Offline** app, distributed through the
 **Google Play Store**, handles data.
 
+The app is developed and published by **Saran Studios**, which is responsible
+for this policy and for the data handling described here.
+
 ## 1. Summary
 
 The app **does not collect, transmit or share personal data**. There is no
@@ -67,6 +70,8 @@ own.
 This policy may be updated. The date at the top is the last revision.
 
 ## 12. Contact
+
+**Saran Studios** — developer of Manga Offline.
 
 Questions, requests or complaints:
 <https://github.com/brenosaran/Manga-Offline-Legal/issues>

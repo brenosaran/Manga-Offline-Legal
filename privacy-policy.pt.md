@@ -5,6 +5,9 @@
 Esta política descreve como o aplicativo **Mangá Offline**, distribuído pela
 **Google Play Store**, trata dados.
 
+O aplicativo é desenvolvido e publicado por **Saran Studios**, responsável por
+esta política e pelo tratamento de dados descrito aqui.
+
 ## 1. Resumo
 
 O aplicativo **não coleta, não transmite e não compartilha dados pessoais**. Não
@@ -70,6 +73,8 @@ apenas exibe arquivos que você já possui.
 Esta política pode ser atualizada. A data no topo indica a última revisão.
 
 ## 12. Contato
+
+**Saran Studios** — desenvolvedor do Mangá Offline.
 
 Dúvidas, solicitações ou reclamações:
 <https://github.com/brenosaran/Manga-Offline-Legal/issues>

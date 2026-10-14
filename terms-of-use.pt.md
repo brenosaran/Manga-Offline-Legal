@@ -5,6 +5,8 @@
 Estes termos se aplicam ao aplicativo **Mangá Offline**, distribuído pela
 **Google Play Store**.
 
+O aplicativo é desenvolvido e publicado por **Saran Studios**.
+
 ## 1. Aceitação
 
 Ao instalar ou usar o aplicativo, você concorda com estes termos. Se não
@@ -13,8 +15,11 @@ concordar, não use o aplicativo.
 ## 2. Licença de uso
 
 É concedida a você uma licença pessoal, gratuita e não exclusiva para usar o
-aplicativo. O código-fonte é distribuído sob a licença indicada no repositório
-do projeto.
+aplicativo.
+
+O aplicativo é distribuído apenas em formato binário pela **Google Play Store**.
+Esta licença se aplica ao uso do aplicativo e **não** concede direitos sobre o
+código-fonte, que não é distribuído nem licenciado por estes termos.
 
 ## 3. O que o aplicativo é
 
@@ -58,5 +63,7 @@ Estes termos podem ser atualizados. A data no topo indica a última revisão. O
 uso continuado após uma alteração significa aceitação dos novos termos.
 
 ## 9. Contato
+
+**Saran Studios** — desenvolvedor do Mangá Offline.
 
 <https://github.com/brenosaran/Manga-Offline-Legal/issues>
